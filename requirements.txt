@@ -1,0 +1,14 @@
+asgiref @ file:///home/dfadeev/.cache/pypoetry/artifacts/c7/eb/03/bdc9b9a0f936a458e93a757d4e793e7cf4a5e5246d585ff019ac44cb94/asgiref-3.5.2-py3-none-any.whl
+backports.zoneinfo @ file:///home/dfadeev/.cache/pypoetry/artifacts/aa/b4/b4/7a4329bc0b3589a13e82474586b62709ce2f876aef24a34bcc3f685bb0/backports.zoneinfo-0.2.1-cp38-cp38-manylinux1_x86_64.whl
+certifi==2022.5.18.1
+distlib==0.3.4
+Django @ file:///home/dfadeev/.cache/pypoetry/artifacts/ff/ed/20/a3445f7cfbddd0b0075039aed5f18100fdfa51fbd9fd161db89df89907/Django-4.0.5-py3-none-any.whl
+filelock==3.7.1
+gunicorn @ file:///home/dfadeev/.cache/pypoetry/artifacts/eb/33/9c/43e158642e15413395d933fef80bb16fa6b50a6ed8dd157f506b6b2c03/gunicorn-20.1.0-py3-none-any.whl
+pages==0.1.0
+pipenv==2022.5.2
+platformdirs==2.5.2
+six==1.16.0
+sqlparse @ file:///home/dfadeev/.cache/pypoetry/artifacts/bd/30/d0/940567a036c6ea57abe7098acbd123f8c8985ccc27713365ae80d28f89/sqlparse-0.4.2-py3-none-any.whl
+virtualenv==20.14.1
+virtualenv-clone==0.5.7
